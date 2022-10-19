@@ -20,3 +20,7 @@ If you want to run the program yourself and/or enter different data, do the foll
 
 # Voila visualization
 
+
+
+https://user-images.githubusercontent.com/111472420/196820220-f7cd50a3-b8f2-496d-859d-de38222b2a25.mp4
+
